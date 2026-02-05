@@ -1,0 +1,20 @@
+[
+  {
+    "carType": "Sedan",
+    "route": ["Delhi", "Agra"],
+    "price": 1800,
+    "availableCars": 10
+  },
+  {
+    "carType": "SUV",
+    "route": ["Mumbai", "Lonavala"],
+    "price": 2500,
+    "availableCars": 8
+  },
+  {
+    "carType": "Hatchback",
+    "route": ["Chennai", "Coimbatore"],
+    "price": 1500,
+    "availableCars": 12
+  }
+]

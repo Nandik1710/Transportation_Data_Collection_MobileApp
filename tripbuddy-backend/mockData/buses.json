@@ -1,0 +1,27 @@
+  [
+  {
+    "busName": "SuperBus Express",
+    "route": ["Delhi", "Agra"],
+    "departureTime": "10:00 AM",
+    "arrivalTime": "2:00 PM",
+    "price": 500,
+    "availableSeats": 40
+  },
+  {
+    "busName": "CityLink Bus",
+    "route": ["Mumbai", "Pune"],
+    "departureTime": "1:00 PM",
+    "arrivalTime": "4:00 PM",
+    "price": 350,
+    "availableSeats": 30
+  },
+  {
+    "busName": "RapidBus",
+    "route": ["Bangalore", "Mysore"],
+    "departureTime": "9:00 AM",
+    "arrivalTime": "12:00 PM",
+    "price": 400,
+    "availableSeats": 45
+  }
+  ]
+
