@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "TripBuddy",
+    "slug": "tripbuddy",
+    "version": "1.0.0",
+    "extra": {
+      "BACKEND_URL": "https://your-backend-url.com/api",
+      "RATE_LIMIT": "85",
+      "RATE_LIMIT_WINDOW_MS": "60000",
+      "CACHE_TTL_MS": "300000",
+      "ASYNC_STORAGE_TTL_MS": "86400000",
+      "FIREBASE_API_KEY": "your_firebase_api_key",
+      "FIREBASE_AUTH_DOMAIN": "your_firebase_auth_domain",
+      "FIREBASE_PROJECT_ID": "your_firebase_project_id",
+      "FIREBASE_STORAGE_BUCKET": "your_firebase_storage_bucket",
+      "FIREBASE_MESSAGING_SENDER_ID": "your_firebase_sender_id",
+      "FIREBASE_APP_ID": "your_firebase_app_id"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "tripbuddy-frontend",
+    "slug": "tripbuddy-frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.harsh5316.tripbuddyfrontend"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fc352e07-a84b-4c83-b77e-856a98e0f354"
+      },
+      "BACKEND_URL": "http://192.168.1.11:5000",
+      "RATE_LIMIT": "85",
+      "RATE_LIMIT_WINDOW_MS": "60000",
+      "CACHE_TTL_MS": "300000",
+      "ASYNC_STORAGE_TTL_MS": "86400000",
+      "FIREBASE_API_KEY": "AIzaSyAkJl5Pt9Awht7gqKNAuLhEISd5jaoAqIw",
+      "FIREBASE_AUTH_DOMAIN": "travelbuddy-f8695.firebaseapp.com",
+      "FIREBASE_PROJECT_ID": "travelbuddy-f8695",
+      "FIREBASE_STORAGE_BUCKET": "travelbuddy-f8695.firebasestorage.app",
+      "FIREBASE_MESSAGING_SENDER_ID": "434260183210",
+      "FIREBASE_APP_ID": "1:434260183210:web:4428da176fac2d5e54a8d3",
+      "FIREBASE_MEASUREMENT_ID": "G-7H4531LYEQ"
+    }
+  }
+}
